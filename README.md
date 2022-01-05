@@ -2,7 +2,7 @@
 Sujet :
 Vous devez créer un jeu de type RPG tour par tour sur console en full Python.
 
-Le jeu doit avoir 4 fonctionnalités obligatoire :
+Le jeu doit contenir 4 fonctionnalités obligatoire :
   - Des déplacements
   - Des combats
   - Un inventaire
