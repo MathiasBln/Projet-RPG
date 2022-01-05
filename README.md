@@ -8,7 +8,7 @@ Le jeu doit contenir 4 fonctionnalités obligatoire :
   - Un inventaire
   - Ajouter n'importe quelle autre fonctionnalité personnel. 
 
-#Notre projet.
+# Notre projet.
 Dora Soul est un jeu vidéo de type RPG exclusivement codé et développé en Python. 
 Ce jeu vous plonge dans un monde fantastique prenant pour référence le dessin animé Dora l'Exploratrice. 
 Son but est une fois de plus vivre une aventure incroyable dans un monde sombre à la Dark Souls.
