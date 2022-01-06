@@ -13,6 +13,20 @@ Dora Soul est un jeu vidéo de type RPG exclusivement codé et développé en Py
 Ce jeu vous plonge dans un monde fantastique prenant pour référence le dessin animé Dora l'Exploratrice. 
 Son but est une fois de plus vivre une aventure incroyable dans un monde sombre à la Dark Souls.
 
+## Fonctionnalités présentes:
+- Menu
+- Tutoriel
+- Affichage de la map
+- Déplacement + Gestion des murs, hors map et rivière
+- Coffres
+- Combat contre des monstres
+- Gestion de l'inventaire 
+- Enigme du pont
+- Easter Egg Lord Pouic (question/réponse + combat)
+- Combat Boss Final
+- Gestion des erreurs d'input
+
+
 ## Répartition des tâches:
 Julien VERITE:
 - Menu
