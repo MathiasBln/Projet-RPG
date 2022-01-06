@@ -20,6 +20,7 @@ Son but est une fois de plus vivre une aventure incroyable dans un monde sombre 
 - Déplacement + Gestion des murs, hors map et rivière
 - Coffres
 - Combat contre des monstres
+- Gestion du heal
 - Gestion de l'inventaire 
 - Enigme du pont
 - Easter Egg Lord Pouic (question/réponse + combat)
