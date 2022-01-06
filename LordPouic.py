@@ -34,10 +34,10 @@ def LordPouic(dora_life, inventory):
     question = ["Quelle est la date de création d'Internet?", "Que veut dire W.W.W.?", "Lequel de ces outils n'est pas un navigateur?"]
     all_answer = [
         ["1996", "2000", "1960"],
-        ["We Want Wine", "World Wild Web", "Wild Web World"],
+        ["We Want Wine", "World Wide Web", "Wide Web World"],
         ["Google", "Firefox", "Safari"],
     ]
-    good_answer = ["1960", "WORLD WILD WEB","GOOGLE"]
+    good_answer = ["1960", "WORLD WIDE WEB","GOOGLE"]
 
     #Série de question
     k = 1
